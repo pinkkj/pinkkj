@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Welcome%20to%20JE%20HUI's%20Github&fontSize=50&fontColor=FFFFFF)
 
 
-🖐️Hello! I’m a developer who values “Respect”, aspiring to become an AI Engineer.<br><br>
+🖐️Hello! I’m a developer who values “Respect”, aspiring to become an SW Engineer.<br><br>
   Guided by my core value of respect, I aim to build web and mobile applications that help users feel respected and empowered. My primary programming language is Python, and   I have hands-on experience across a variety of projects.
 
 # ⭐About me
