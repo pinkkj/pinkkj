@@ -6,7 +6,7 @@
 
 # ⭐About me
 - 🏫Undergraduate student at Kyung Hee University, majoring in Software Convergence (Data Science Track) (Mar 2022 ~ Present)
-- ✍️Currently studying to become an AI Engineer, focusing on areas such as model fine-tuning, backend development, and cloud systems
+- ✍️Currently studying to become an SW Engineer, focusing on areas such as model fine-tuning, backend development, and cloud systems
 - 🔥Passionate about learning new things, with a persistent and detail-oriented mindset that drives me to dig deep into problems
 
 <a href="https://bubble-odometer-9a5.notion.site/PortFolio-2426064406078067b51cce36e66fca2b?pvs=74"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a> <a href="https://pinkkj.github.io/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a> <a href="juventa23@khu.ac.kr"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
